@@ -39,3 +39,4 @@ python manage.py shell
 ## References
 
 - https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+- https://docs.djangoproject.com/en/4.2/ref/models/querysets/
