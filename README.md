@@ -1,7 +1,7 @@
 # Django tutorial
 
 - [Django tutorial intro](https://docs.djangoproject.com/en/4.2/intro/)
-    - Resume from: https://docs.djangoproject.com/en/4.2/intro/tutorial04/#use-generic-views-less-code-is-better
+    - Resume from: https://docs.djangoproject.com/en/4.2/intro/tutorial05/
 
 Initial project setup:
 
