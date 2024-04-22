@@ -1,6 +1,7 @@
 # Django tutorial
 
-[Django tutorial intro](https://docs.djangoproject.com/en/4.2/intro/)
+- [Django tutorial intro](https://docs.djangoproject.com/en/4.2/intro/)
+    - Resume from: https://docs.djangoproject.com/en/4.2/intro/tutorial04/#use-generic-views-less-code-is-better
 
 Initial project setup:
 
@@ -40,3 +41,4 @@ python manage.py shell
 
 - https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 - https://docs.djangoproject.com/en/4.2/ref/models/querysets/
+- Tags and filters: https://docs.djangoproject.com/en/5.0/ref/templates/builtins/
