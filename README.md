@@ -2,6 +2,7 @@
 
 - [Django tutorial intro](https://docs.djangoproject.com/en/4.2/intro/)
     - Resume from: https://docs.djangoproject.com/en/4.2/intro/tutorial06/
+- [Django REST Framework](https://www.django-rest-framework.org/)
 
 Initial project setup:
 
