@@ -1,7 +1,7 @@
 # Django tutorial
 
 - [Django tutorial intro](https://docs.djangoproject.com/en/4.2/intro/)
-    - Resume from: https://docs.djangoproject.com/en/4.2/intro/tutorial05/
+    - Resume from: https://docs.djangoproject.com/en/4.2/intro/tutorial06/
 
 Initial project setup:
 
@@ -37,8 +37,22 @@ python manage.py check
 python manage.py shell
 ```
 
+Testing:
+
+```
+python manage.py test <app>
+```
+
 ## References
 
 - https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 - https://docs.djangoproject.com/en/4.2/ref/models/querysets/
 - Tags and filters: https://docs.djangoproject.com/en/5.0/ref/templates/builtins/
+
+## Notes
+
+### Tutorial 5:
+
+> It doesn’t matter. Let them grow. For the most part, you can write a test once and then forget about it. It will continue performing its useful function as you continue to develop your program.
+
+> At worst, as you continue developing, you might find that you have some tests that are now redundant. Even that’s not a problem; in testing redundancy is a good thing.
