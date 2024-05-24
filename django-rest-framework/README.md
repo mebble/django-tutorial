@@ -14,3 +14,12 @@ cd firstdrf
 django-admin startapp quickstart
 cd ..
 ```
+
+## Development
+
+
+Shell:
+
+```
+python3 manage.py shell -i ipython
+```

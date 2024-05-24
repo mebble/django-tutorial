@@ -6,3 +6,20 @@
 - [Django REST Framework](https://www.django-rest-framework.org/tutorial/quickstart/)
     - Resume from https://www.django-rest-framework.org/tutorial/1-serialization/#using-modelserializers
     - Location /django-rest-framework
+
+## Django codebase structure
+
+```
+.
+├── manage.py
+├── project1
+│   ├── wsgi.py
+│   ├── settings.py
+│   └── urls.py
+├── project2
+│   ├── wsgi.py
+│   ├── settings.py
+│   └── urls.py
+├── app1
+└── app2
+```
