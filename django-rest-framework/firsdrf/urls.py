@@ -23,6 +23,8 @@ router = routers.DefaultRouter()
 router.register(r'usersss', views.UserViewSet)  # usersss shows which part of url this is
 router.register(r'groups', views.GroupViewSet)
 
+print(router.urls)  # urls for a single user and group are also generated
+
 urlpatterns = [
     # path('api', include(router.urls)),  # TRYOUT
     path('', include(router.urls)),
